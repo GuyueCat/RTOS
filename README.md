@@ -1,4 +1,5 @@
 # OperatingSysterm
-include FreeRTOS
-        Uc/OS
-        linux 0.11
+#include 
+        #FreeRTOS
+        #Uc/OS
+        #linux 0.11
